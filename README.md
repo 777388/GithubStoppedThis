@@ -17,4 +17,4 @@ index.lock doesnt exist, not even as a hidden file, but it might be one of those
 Useful with CertSurf or SilCertSurfer as its constantly making port readout files.
 
 
-Trying stopping the processes, no luck on it working, though manually updating the github repository without the program still works.
+Trying stopping the processes, no luck on it working, though manually updating the github repository without the program still works. As in Code in Terminal still allows terminal updating repository

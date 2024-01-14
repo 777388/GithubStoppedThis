@@ -18,3 +18,5 @@ Useful with CertSurf or SilCertSurfer as its constantly making port readout file
 
 
 Trying stopping the processes, no luck on it working, though manually updating the github repository without the program still works. As in Code in Terminal still allows terminal updating repository
+
+ps -elf will show the running unhinged processes to kill, but killing them still has the problem up, again just still works in terminal, its just the sigint code which finds if anyone tries to hit ctrl+c to end the process or copy something down and updates the server. Might be an interesting aspect if you're gonna leave a server running in like a movie scenario, where the program seemingly is hacking everyone and the person there to stop the hack releases their own ip address or something onto a github server.

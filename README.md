@@ -1,4 +1,4 @@
-Just hit ctrl+c after putting this into your repository programU
+Just hit ctrl+c after putting this into your repository program
 
 Comes out with
 

@@ -12,3 +12,6 @@ remove the file manually to continue.
 Everything up-to-date
 
 index.lock doesnt exist, not even as a hidden file, but it might be one of those zone trackers I've been noticing that they attach onto certain machine learning files. dir /r finds them in windows, no idea in linux
+
+
+Useful with CertSurf or SilCertSurfer as its constantly making port readout files.

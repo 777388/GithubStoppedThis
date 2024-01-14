@@ -1,0 +1,5 @@
+def sigint_handler(signal, frame):
+    os.popen("git add .")
+    os.popen("git commit -m 'Add Files'")
+    os.popen("git push origin")
+signal.signal(signal.SIGINT, sigint_handler)
